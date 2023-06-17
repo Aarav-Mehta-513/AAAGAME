@@ -1,2 +1,2 @@
 # AAAGAME
-our super cool game
+our super cool (side-scrolling?) game
