@@ -3,17 +3,71 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "level1.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Props2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 144.25,
+                "y": 477.5
+            }
+        },
+        "tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
     },
-    "last.imagePath": "C:/Users/Aarush Jain/Documents/GitHub/AAAGAME1/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/Green Woods/Assets",
+    "last.imagePath": "C:/Users/Aarush Jain/Documents/GitHub/AAAGAME1/Pixel Crawler - FREE - 1.8/Pixel Crawler - FREE - 1.8/Environment/Dungeon Prison/Assets",
     "map.lastUsedFormat": "tmx",
     "openFiles": [
+        "level1.tmx",
+        "Tiles.tsx",
+        "Props.tsx",
+        "Props2.tsx",
+        "Trees.tsx"
     ],
     "project": "untitled.tiled-project",
     "recentFiles": [
+        "Trees.tsx",
+        "Props2.tsx",
+        "Props.tsx",
+        "Tiles.tsx",
+        "level1.tmx",
+        "Tiles2.tsx",
+        "trees.tsx",
+        "tiles.tsx"
     ],
-    "tileset.lastUsedFormat": "tsx"
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
 }
